@@ -2,6 +2,10 @@
 
 A modern, full-stack ticket management application built with Next.js 15, TypeScript, and MongoDB. Perfect for IT support teams, help desks, or any organization that needs to track and manage support tickets efficiently.
 
+## 🎬 Demo
+
+![Ticket Management System Demo](https://github.com/yasin-erkan/Ticket_management_NextJS-Fullstack/blob/main/src/assets/ticketManagement.gif)
+
 ## 🚀 Features
 
 ### Core Functionality
